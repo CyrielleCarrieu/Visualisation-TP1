@@ -1,0 +1,8 @@
+D:\Visual Basic\VisualisationTP1\WindowsFormsControlLibrary1\bin\Debug\WindowsFormsControlLibrary1.dll
+D:\Visual Basic\VisualisationTP1\WindowsFormsControlLibrary1\bin\Debug\WindowsFormsControlLibrary1.pdb
+D:\Visual Basic\VisualisationTP1\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.csprojAssemblyReference.cache
+D:\Visual Basic\VisualisationTP1\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.csproj.CoreCompileInputs.cache
+D:\Visual Basic\VisualisationTP1\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.dll
+D:\Visual Basic\VisualisationTP1\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.pdb
+D:\Visual Basic\VisualisationTP1\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.UserControl1.resources
+D:\Visual Basic\VisualisationTP1\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.csproj.GenerateResource.cache

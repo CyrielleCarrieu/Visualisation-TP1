@@ -1,0 +1,6 @@
+D:\Visual Basic\VisualisationTP1\VisualisationTP1\obj\Debug\netcoreapp3.1\VisualisationTP1.csprojAssemblyReference.cache
+D:\Visual Basic\VisualisationTP1\VisualisationTP1\obj\Debug\netcoreapp3.1\VisualisationTP1.Form1.resources
+D:\Visual Basic\VisualisationTP1\VisualisationTP1\obj\Debug\netcoreapp3.1\VisualisationTP1.csproj.GenerateResource.cache
+D:\Visual Basic\VisualisationTP1\VisualisationTP1\obj\Debug\netcoreapp3.1\VisualisationTP1.AssemblyInfoInputs.cache
+D:\Visual Basic\VisualisationTP1\VisualisationTP1\obj\Debug\netcoreapp3.1\VisualisationTP1.AssemblyInfo.cs
+D:\Visual Basic\VisualisationTP1\VisualisationTP1\obj\Debug\netcoreapp3.1\VisualisationTP1.csproj.CoreCompileInputs.cache
